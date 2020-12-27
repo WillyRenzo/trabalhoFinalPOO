@@ -1,0 +1,72 @@
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\wfaSistemaDeVendas.exe.config
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\wfaSistemaDeVendas.exe
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\wfaSistemaDeVendas.pdb
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.csprojAssemblyReference.cache
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.Form1.resources
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.Properties.Resources.resources
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.csproj.GenerateResource.cache
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.csproj.CoreCompileInputs.cache
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.exe
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.pdb
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.Cliente.resources
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.Produto.resources
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.Venda.resources
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\Npgsql.dll
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Buffers.dll
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Memory.dll
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Text.Json.dll
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Threading.Channels.dll
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.ValueTuple.dll
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\Npgsql.xml
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Buffers.xml
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Memory.xml
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Text.Json.xml
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Threading.Channels.xml
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.ValueTuple.xml
+C:\Users\willy\source\repos\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.csproj.CopyComplete
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\wfaSistemaDeVendas.exe.config
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\wfaSistemaDeVendas.exe
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\wfaSistemaDeVendas.pdb
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\Npgsql.dll
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Buffers.dll
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Memory.dll
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Text.Json.dll
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Threading.Channels.dll
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.ValueTuple.dll
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\Npgsql.xml
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Buffers.xml
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Memory.xml
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Text.Json.xml
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Threading.Channels.xml
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\bin\Debug\System.ValueTuple.xml
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.csprojAssemblyReference.cache
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.Cliente.resources
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.Form1.resources
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.Produto.resources
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.Properties.Resources.resources
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.Venda.resources
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.csproj.GenerateResource.cache
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.csproj.CoreCompileInputs.cache
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.csproj.CopyComplete
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.exe
+C:\Users\willy\OneDrive\Área de Trabalho\POO\wfaTrabalhoFinal\wfaSistemaDeVendas\wfaSistemaDeVendas\obj\Debug\wfaSistemaDeVendas.pdb
